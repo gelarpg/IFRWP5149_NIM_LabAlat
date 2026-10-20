@@ -14,4 +14,4 @@
 
 🏫 Teknik Informatika A
 
-📍 Praktikum Pertemuan 1 Pengenalan Lingkungan Praktikum dan Kakas Pemodelan UML
+📍 PERTEMUAN 2 UNIFIED MODELLING LANGUAGE (UML)
